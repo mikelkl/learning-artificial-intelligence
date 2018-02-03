@@ -10,3 +10,5 @@ understood chart. The Python Pickle module can be used for persisting our tree.
 The contact lens data showed that decision trees can try too hard and overfit a dataset.
 This overfitting can be removed by pruning the decision tree, combining adjacent
 leaf nodes that don’t provide a large amount of information gain.
+
+[Download data](https://drive.google.com/open?id=1e0KEUi1Y-fYl_FQvGdS8TM9aMC0NMYxI) into the same folder.

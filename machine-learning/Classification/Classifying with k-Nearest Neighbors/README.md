@@ -9,3 +9,5 @@ _An additional drawback is that kNN doesn’t give you any idea of the underlyin
 structure of the data;_ you have no idea what an “average” or “exemplar” instance from
 each class looks like. In the next chapter, we’ll address this issue by exploring ways in
 which probability measurements can help you do classification.
+
+[Download data](https://drive.google.com/open?id=1xbH_5JUUx-8jcz881ZdeCS2ZG3tabi4B) into the same folder.
