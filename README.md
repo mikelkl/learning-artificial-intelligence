@@ -6,6 +6,14 @@ In this repository, I put the code I write about artificial intelligence.
 
 The repo includes following content:
 
+## Deep Learning
+
+### Library Learning
+
+#### Keras
+
+- [Getting started with the Keras Sequential model](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/Keras/%20Getting%20started%20with%20the%20Keras%20Sequential%20model.ipynb)
+
 ## Machine Leanring
 
 ### Classification
