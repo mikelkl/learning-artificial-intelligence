@@ -13,6 +13,7 @@ The repo includes following content:
 #### Keras
 
 - [Getting started with the Keras Sequential model](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/Keras/%20Getting%20started%20with%20the%20Keras%20Sequential%20model.ipynb)
+- [Getting started with the Keras functional API](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/Keras/Getting%20started%20with%20the%20Keras%20functional%20API.ipynb)
 
 ## Machine Leanring
 
