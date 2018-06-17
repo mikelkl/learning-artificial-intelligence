@@ -15,6 +15,12 @@ The repo includes following content:
 - [Getting started with the Keras Sequential model](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/Keras/%20Getting%20started%20with%20the%20Keras%20Sequential%20model.ipynb)
 - [Getting started with the Keras functional API](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/Keras/Getting%20started%20with%20the%20Keras%20functional%20API.ipynb)
 
+#### Tensorflow
+
+##### Get Started
+
+- [Get Started with Eager Execution](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/%20Get%20Started%20with%20Eager%20Execution.ipynb)
+
 ## Machine Leanring
 
 ### Classification
