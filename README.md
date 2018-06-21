@@ -20,6 +20,7 @@ The repo includes following content:
 ##### Get Started
 
 - [Get Started with Eager Execution](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/%20Get%20Started%20with%20Eager%20Execution.ipynb)
+- [Premade Estimators](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/Premade%20Estimators.ipynb)
 
 ## Machine Leanring
 
