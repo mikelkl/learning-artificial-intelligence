@@ -21,6 +21,8 @@ The repo includes following content:
 
 - [Get Started with Eager Execution](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/%20Get%20Started%20with%20Eager%20Execution.ipynb)
 - [Premade Estimators](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/Premade%20Estimators.ipynb)
+- [Checkpoints](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/Checkpoints.ipynb)
+- [Datasets Quick Start](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/Datasets%20Quick%20Start.ipynb)
 
 ## Machine Leanring
 
