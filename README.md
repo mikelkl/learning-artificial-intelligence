@@ -22,7 +22,14 @@ The repo includes following content:
 - [Get Started with Eager Execution](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/%20Get%20Started%20with%20Eager%20Execution.ipynb)
 - [Premade Estimators](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/Premade%20Estimators.ipynb)
 - [Checkpoints](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/Checkpoints.ipynb)
+- [Feature Columns](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/Feature%20Columns.ipynb)
 - [Datasets Quick Start](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/Datasets%20Quick%20Start.ipynb)
+- [Creating Custom Estimators](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/%20Get%20Started/Creating%20Custom%20Estimators.ipynb)
+
+##### Programmer's Guide
+###### High Level APIs
+- [Eager Execution](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/High%20Level%20APIs/Eager%20Execution.ipynb)
+- [Importing Data](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/High%20Level%20APIs/Importing%20Data.ipynb)
 
 ## Machine Leanring
 
