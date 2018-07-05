@@ -109,3 +109,4 @@ ckpt/
 datasets/
 log/
 dataset.py
+events.*

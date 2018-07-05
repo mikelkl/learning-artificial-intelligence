@@ -30,6 +30,10 @@ The repo includes following content:
 ###### High Level APIs
 - [Eager Execution](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/High%20Level%20APIs/Eager%20Execution.ipynb)
 - [Importing Data](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/High%20Level%20APIs/Importing%20Data.ipynb)
+- [Estimators](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/High%20Level%20APIs/Estimators.ipynb)
+
+###### Low Level APIs
+- [Introduction](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/Low%20Level%20APIs/Introduction.ipynb)
 
 ## Machine Leanring
 
