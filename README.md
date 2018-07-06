@@ -34,6 +34,9 @@ The repo includes following content:
 
 ###### Low Level APIs
 - [Introduction](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/Low%20Level%20APIs/Introduction.ipynb)
+- [Tensors](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/Low%20Level%20APIs/Tensors.ipynb)
+- [Variables](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/Low%20Level%20APIs/Variables.ipynb)
+- [Graphs and Sessions](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/Low%20Level%20APIs/Graphs%20and%20Sessions.ipynb)
 
 ## Machine Leanring
 
