@@ -32,11 +32,22 @@ The repo includes following content:
 - [Importing Data](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/High%20Level%20APIs/Importing%20Data.ipynb)
 - [Estimators](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/High%20Level%20APIs/Estimators.ipynb)
 
+###### Accelerators
+- [Using GPUs](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/Accelerators/Using%20GPUs.ipynb)
+
 ###### Low Level APIs
 - [Introduction](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/Low%20Level%20APIs/Introduction.ipynb)
 - [Tensors](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/Low%20Level%20APIs/Tensors.ipynb)
 - [Variables](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/Low%20Level%20APIs/Variables.ipynb)
 - [Graphs and Sessions](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/Low%20Level%20APIs/Graphs%20and%20Sessions.ipynb)
+
+###### ML Concepts
+- [Embeddings](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/ML%20Concepts/Embeddings.ipynb)
+
+###### TensorBoard
+- [Visualizing Learning](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/TensorBoard/Visualizing%20Learning.ipynb)
+- [Graph Visualization](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/TensorBoard/Graph%20Visualization.ipynb)
+- [Histogram Dashboard](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/TensorBoard/Histogram%20Dashboard.ipynb)
 
 ## Machine Leanring
 
