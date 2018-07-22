@@ -49,6 +49,23 @@ The repo includes following content:
 - [Graph Visualization](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/TensorBoard/Graph%20Visualization.ipynb)
 - [Histogram Dashboard](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Programmer's%20Guide/TensorBoard/Histogram%20Dashboard.ipynb)
 
+##### Tutorials
+###### Sequences
+- [Recurrent Neural Networks](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/TensorFlow/Tutorials/Sequences/Recurrent%20Neural%20Networks.ipynb)
+
+#### PyTorch
+##### BEGINNER TUTORIALS
+###### Deep Learning with PyTorch - A 60 Minute Blitz
+- [What is PyTorch?](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/PyTorch/BEGINNER%20TUTORIALS/Deep%20Learning%20with%20PyTorch%20-%20A%2060%20Minute%20Blitz/What%20is%20PyTorch.ipynb)
+- [Autograd: automatic differentiation](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/PyTorch/BEGINNER%20TUTORIALS/Deep%20Learning%20with%20PyTorch%20-%20A%2060%20Minute%20Blitz/Autograd%20-%20automatic%20differentiation.ipynb)
+- [Neural Networks](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/PyTorch/BEGINNER%20TUTORIALS/Deep%20Learning%20with%20PyTorch%20-%20A%2060%20Minute%20Blitz/Neural%20Networks.ipynb)
+- [Training a classifier](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/PyTorch/BEGINNER%20TUTORIALS/Deep%20Learning%20with%20PyTorch%20-%20A%2060%20Minute%20Blitz/Training%20a%20classifier.ipynb)
+
+###### Deep Learning for NLP with Pytorch
+- [Word Embeddings: Encoding Lexical Semantics](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/PyTorch/BEGINNER%20TUTORIALS/Deep%20Learning%20for%20NLP%20with%20Pytorch/Word%20Embeddings%20-%20Encoding%20Lexical%20Semantics.ipynb)
+- [Sequence Models and Long-Short Term Memory Networks](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/PyTorch/BEGINNER%20TUTORIALS/Deep%20Learning%20for%20NLP%20with%20Pytorch/Sequence%20Models%20and%20Long-Short%20Term%20Memory%20Networks.ipynb)
+- [Advanced: Making Dynamic Decisions and the Bi-LSTM CRF](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/PyTorch/BEGINNER%20TUTORIALS/Deep%20Learning%20for%20NLP%20with%20Pytorch/Advanced%20-%20Making%20Dynamic%20Decisions%20and%20the%20Bi-LSTM%20CRF.ipynb)
+
 ## Machine Leanring
 
 ### Classification
