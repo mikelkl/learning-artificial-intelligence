@@ -66,6 +66,10 @@ The repo includes following content:
 - [Sequence Models and Long-Short Term Memory Networks](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/PyTorch/BEGINNER%20TUTORIALS/Deep%20Learning%20for%20NLP%20with%20Pytorch/Sequence%20Models%20and%20Long-Short%20Term%20Memory%20Networks.ipynb)
 - [Advanced: Making Dynamic Decisions and the Bi-LSTM CRF](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/PyTorch/BEGINNER%20TUTORIALS/Deep%20Learning%20for%20NLP%20with%20Pytorch/Advanced%20-%20Making%20Dynamic%20Decisions%20and%20the%20Bi-LSTM%20CRF.ipynb)
 
+##### INTERMEDIATE TUTORIALS
+- [Translation with a Sequence to Sequence Network and Attention](https://github.com/mikelkl/learning-artificial-intelligence/blob/master/deep-learning/library-learning/PyTorch/INTERMEDIATE%20TUTORIALS/Translation%20with%20a%20Sequence%20to%20Sequence%20Network%20and%20Attention/Translation%20with%20a%20Sequence%20to%20Sequence%20Network%20and%20Attention.ipynb)
+
+
 ## Machine Leanring
 
 ### Classification
